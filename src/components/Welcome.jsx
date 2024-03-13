@@ -1,6 +1,5 @@
 import "../css/main.css";
 import Hello from "../img/hello.jpg";
-
 //returns only one element but can be nested with children elements
 function Welcome() {
   return (
@@ -24,10 +23,6 @@ function Welcome() {
           </ul>
         </nav>
         <img src={Hello} alt="Hello Image" />
-        <p>
-          Hello, I am an aspriing full stack web developer based out of
-          California.
-        </p>
       </div>
     </>
   );
