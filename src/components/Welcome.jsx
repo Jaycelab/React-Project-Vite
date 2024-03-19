@@ -1,4 +1,4 @@
-import "../css/main.css";
+
 import Hello from "../img/hello.jpg";
 //returns only one element but can be nested with children elements
 function Welcome() {

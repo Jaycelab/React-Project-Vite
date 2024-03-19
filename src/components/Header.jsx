@@ -1,9 +1,7 @@
-import "../css/main.css";
-
 function Header() {
   return (
     <p>
-      Hello, I am an aspriing full stack web developer based out of California.
+      Hello, I am an aspiring full stack web developer based out of California.
     </p>
   );
 }
